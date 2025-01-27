@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "bootstrap": "^5.3.3"
+    "bootstrap": "^5.3.3",
+    "googleapis": "^144.0.0"
   },
   "devDependencies": {
     "parcel": "^2.13.3"
