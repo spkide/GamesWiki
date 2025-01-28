@@ -101,6 +101,7 @@ header{
 
 .Inicio-1 span{
     margin-left: 0.7em;
+    color: #2B0307;
 }
 
 /*FINAL DEL CODIGO DE SECTION-1*/
@@ -125,4 +126,47 @@ header{
 .imagen-2 img{
     border: none;
     border-radius: 50px;
+}
+/*====================================================*/
+/*=================BOTONES DE ULTIMAS NOTICIAS===================================*/
+.btn-3{
+    color: white;
+    text-decoration: none;
+    background-color: #2d2246;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+}
+
+.btn-3:hover{
+    transition: all 1 ease .3s;
+    background-color: #76b4ec;
+}
+
+.btn-4{
+    color: white;
+    text-decoration: none;
+    background-color: #f3cca9;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+}
+
+.btn-4:hover{
+    transition: all 1 ease .3s;
+    background-color: #83ab5d;
+}
+
+.btn-5{
+    color: white;
+    text-decoration: none;
+    background-color:#304149;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+}
+
+.btn-5:hover{
+    transition: all 1 ease .3s;
+    background-color: #729db1;
 }
